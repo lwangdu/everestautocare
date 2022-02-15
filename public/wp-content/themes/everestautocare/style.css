@@ -1,0 +1,29 @@
+/*
+Theme Name: Everest Auto Care
+Template: twentytwentytwo
+Theme URI: https://github.com/wordpress/twentytwentytwo/
+Author: Lobsang Wangdu
+Author URI: https://www.yowangdu.com/
+Description: Everest Auto Care website child theme TT2 theme.
+Version: 1.0.0
+Text Domain:  twentytwentytwochild
+*/
+
+
+/* Custom style start here*/
+/*
+.footer{
+	display: flex;
+	max-width: 1200px;
+	align-items: center;
+	justify-content: space-evenly;
+  	margin: auto;
+}
+*/
+
+.nf-form-content button, .nf-form-content input[type=button], .nf-form-content input[type=submit] {
+	background: #d7403d !important;
+    color: #fff;
+    font-weight: 700;
+}
+
