@@ -35,7 +35,7 @@
 		"appearanceTools": true,
 		"color": {
             "defaultPalette": false,
-            "customColor": true,
+            "customColor": false,
 			"duotone": [
 				{
 					"colors": [ "#000000", "#ffffff" ],
