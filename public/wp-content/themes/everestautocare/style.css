@@ -27,3 +27,18 @@ Text Domain:  twentytwentytwochild
     font-weight: 700;
 }
 
+
+@media (min-width: 782px) {
+	.wp-block-navigation.nav-primary--mobile {
+		display: none;
+	}
+	
+}
+
+@media (min-width: 783px) {
+	.wp-block-navigation.nav-primary--desktop {
+		display: none;
+	}
+	
+}
+
