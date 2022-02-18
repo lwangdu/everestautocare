@@ -10,17 +10,6 @@ Text Domain:  twentytwentytwochild
 */
 
 
-/* Custom style start here*/
-/*
-.footer{
-	display: flex;
-	max-width: 1200px;
-	align-items: center;
-	justify-content: space-evenly;
-  	margin: auto;
-}
-*/
-
 .nf-form-content button, .nf-form-content input[type=button], .nf-form-content input[type=submit] {
 	background: #d7403d !important;
     color: #fff;
@@ -35,7 +24,7 @@ Text Domain:  twentytwentytwochild
 	
 }
 
-@media (min-width: 783px) {
+@media (max-width: 783px) {
 	.wp-block-navigation.nav-primary--desktop {
 		display: none;
 	}
